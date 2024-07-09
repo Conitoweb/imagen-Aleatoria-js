@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background-color: black;
+    overflow: hidden;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 295px;
+    left: 207px;
+   
+}
